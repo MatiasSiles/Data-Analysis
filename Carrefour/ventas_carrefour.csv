@@ -1,0 +1,701 @@
+fecha,sucursal,producto,precio_unitario,cantidad_vendida,método_pago,cliente_id,descuento_aplicado_%,devolución,total_venta
+2025-05-01,San Justo,Arroz,1037.42,4,Mercado Pago,1000,15,0,3517.11
+2025-05-21,San Justo,Yerba,243.94,1,Tarjeta Crédito,1019,0,0,263.72
+2025-06-05,Ramos Mejía,Aceite,1150.31,4,Tarjeta Débito,1072,15,0,3899.02
+2025-04-16,Lomas del Mirador,Queso,1461.94,2,Tarjeta Crédito,1018,5,0,2787.1
+2025-06-14,Lomas del Mirador,Yerba,273.87,1,Tarjeta Débito,1057,5,0,243.93
+2025-06-17,Lomas del Mirador,Cerveza,866.15,3,Tarjeta Crédito,1000,15,0,2215.32
+2025-06-07,San Justo,Cerveza,657.86,3,Mercado Pago,1077,0,0,1961.92
+2025-06-07,La Tablada,Jugo,762.42,4,Mercado Pago,1074,0,0,3045.24
+2025-05-01,San Justo,Queso,362.5,1,Efectivo,1027,10,0,344.7
+2025-04-20,La Tablada,Aceite,570.71,1,Mercado Pago,1001,0,0,588.16
+2025-06-09,Morón,Galletitas,587.92,3,Mercado Pago,1080,10,0,1573.73
+2025-05-12,San Justo,Fideos,1420.9,1,Mercado Pago,1088,10,0,1287.94
+2025-06-09,San Justo,Pan,954.9,2,Mercado Pago,1000,0,0,1919.59
+2025-06-01,San Justo,Aceite,1342.51,3,Efectivo,1051,0,1,4029.51
+2025-04-29,Lomas del Mirador,Cerveza,360.03,3,Tarjeta Débito,1062,10,0,956.97
+2025-07-05,Lomas del Mirador,Fideos,1168.49,5,Efectivo,1026,5,0,5549.58
+2025-06-15,La Tablada,Cerveza,217.18,2,Efectivo,1033,15,0,361.16
+2025-04-08,La Tablada,Queso,260.14,2,Tarjeta Crédito,1037,5,0,488.68
+2025-05-17,San Justo,Queso,748.2,3,Tarjeta Débito,1098,0,0,2226.68
+2025-05-19,La Tablada,Jugo,722.42,3,Tarjeta Crédito,1080,0,0,2173.93
+2025-04-19,Lomas del Mirador,Galletitas,969.55,3,Efectivo,1080,10,0,2636.72
+2025-06-28,La Tablada,Leche,709.15,3,Mercado Pago,1095,15,0,1797.77
+2025-04-28,Morón,Cerveza,441.02,2,Tarjeta Débito,1023,0,0,879.41
+2025-04-30,Lomas del Mirador,Galletitas,841.67,2,Mercado Pago,1017,15,0,1411.44
+2025-07-07,Morón,Arroz,615.98,4,Efectivo,1066,5,0,2352.5
+2025-04-11,La Tablada,Cerveza,299.7,2,Efectivo,1070,15,0,512.88
+2025-05-27,Ramos Mejía,Fideos,1065.59,5,Efectivo,1024,5,0,5057.38
+2025-06-04,San Justo,Galletitas,950.73,0,Tarjeta Débito,1072,0,0,-10.28
+2025-06-18,Lomas del Mirador,Aceite,861.36,0,Tarjeta Crédito,1079,0,0,18.75
+2025-05-06,Morón,Galletitas,566.37,5,Tarjeta Crédito,1010,10,0,2551.91
+2025-05-12,Ramos Mejía,Aceite,447.7,4,Mercado Pago,1054,5,0,1708.89
+2025-06-13,Ramos Mejía,Queso,1479.0,0,Tarjeta Débito,1023,5,0,7.54
+2025-05-07,Lomas del Mirador,Aceite,223.96,6,Mercado Pago,1015,15,0,1128.4
+2025-06-11,Lomas del Mirador,Yerba,425.97,3,Mercado Pago,1015,10,0,1160.95
+2025-06-28,Ramos Mejía,Leche,1426.19,4,Tarjeta Crédito,1024,10,0,5124.23
+2025-05-30,San Justo,Yerba,1185.92,1,Tarjeta Débito,1087,10,0,1067.32
+2025-07-03,San Justo,Fideos,1181.62,0,Efectivo,1006,5,0,7.44
+2025-06-17,Morón,Pan,540.75,5,Mercado Pago,1090,0,0,2697.29
+2025-04-27,San Justo,Fideos,311.98,5,Efectivo,1012,0,0,1578.69
+2025-07-07,Ramos Mejía,Jugo,821.47,0,Tarjeta Débito,1000,15,0,10.38
+2025-06-08,Ramos Mejía,Cerveza,731.38,3,Mercado Pago,1034,15,0,1847.42
+2025-04-09,La Tablada,Yerba,324.4,3,Efectivo,1034,5,0,918.76
+2025-06-22,Ramos Mejía,Fideos,868.99,6,Efectivo,1007,0,0,5200.1
+2025-06-04,San Justo,Cerveza,460.65,4,Tarjeta Crédito,1088,10,0,1659.79
+2025-07-06,Morón,Cerveza,904.28,3,Tarjeta Débito,1076,0,0,2697.14
+2025-04-13,La Tablada,Cerveza,1051.87,2,Tarjeta Débito,1098,15,0,1787.69
+2025-04-15,San Justo,Leche,628.13,3,Tarjeta Débito,1002,0,0,1877.06
+2025-05-14,Morón,Pan,686.05,4,Mercado Pago,1024,10,0,2472.11
+2025-05-01,San Justo,Aceite,1151.76,2,Tarjeta Crédito,1087,15,0,1963.78
+2025-05-05,La Tablada,Fideos,738.9,6,Mercado Pago,1093,5,0,4205.62
+2025-06-04,Ramos Mejía,Jugo,770.67,1,Tarjeta Débito,1015,0,0,786.34
+2025-06-23,La Tablada,Fideos,255.11,6,Mercado Pago,1058,0,0,1539.99
+2025-05-10,Ramos Mejía,Aceite,572.63,5,Efectivo,1008,5,0,2700.85
+2025-07-07,La Tablada,Queso,729.53,3,Mercado Pago,1062,5,0,2074.27
+2025-05-08,Lomas del Mirador,Galletitas,695.97,3,Mercado Pago,1024,10,0,1888.09
+2025-06-24,San Justo,Cerveza,1014.19,4,Tarjeta Débito,1029,0,0,4046.79
+2025-04-14,San Justo,Yerba,540.85,3,Efectivo,1007,15,0,1360.75
+2025-07-04,Lomas del Mirador,Yerba,696.79,7,Tarjeta Débito,1069,0,0,4885.8
+2025-05-02,Ramos Mejía,Galletitas,1454.37,1,Efectivo,1018,10,0,1311.29
+2025-06-24,San Justo,Jugo,382.03,5,Efectivo,1032,15,0,1625.34
+2025-04-30,Lomas del Mirador,Yerba,1429.28,2,Efectivo,1071,15,0,2429.38
+2025-06-30,San Justo,Galletitas,771.13,0,Tarjeta Débito,1064,15,0,2.67
+2025-05-18,Morón,Galletitas,1080.97,6,Efectivo,1050,10,0,5838.98
+2025-05-09,Ramos Mejía,Cerveza,638.5,-1,Tarjeta Crédito,1086,0,0,-645.55
+2025-05-01,Morón,Aceite,739.56,7,Tarjeta Crédito,1097,15,0,4399.12
+2025-06-16,Ramos Mejía,Aceite,292.92,1,Tarjeta Crédito,1067,5,0,292.98
+2025-04-23,Lomas del Mirador,Aceite,738.16,4,Tarjeta Crédito,1072,10,0,2661.32
+2025-07-07,Ramos Mejía,Fideos,690.61,3,Tarjeta Débito,1021,15,0,1775.48
+2025-07-02,Ramos Mejía,Pan,256.17,4,Mercado Pago,1017,10,0,908.63
+2025-04-19,Lomas del Mirador,Fideos,1325.21,8,Mercado Pago,1082,5,0,10072.84
+2025-05-15,Ramos Mejía,Galletitas,1156.84,5,Tarjeta Crédito,1058,15,1,4914.55
+2025-06-23,San Justo,Pan,449.12,2,Mercado Pago,1053,0,0,911.02
+2025-07-07,La Tablada,Yerba,1201.81,3,Tarjeta Crédito,1063,10,0,3246.55
+2025-04-25,Lomas del Mirador,Arroz,253.11,1,Tarjeta Crédito,1057,15,1,213.31
+2025-05-29,La Tablada,Fideos,1004.85,-1,Mercado Pago,1016,15,0,-843.09
+2025-05-14,Lomas del Mirador,Fideos,866.32,1,Mercado Pago,1042,10,0,779.93
+2025-06-15,Lomas del Mirador,Cerveza,411.77,3,Efectivo,1099,5,0,1182.89
+2025-06-21,Morón,Aceite,1197.91,2,Tarjeta Crédito,1042,10,0,2171.56
+2025-06-03,Morón,Queso,623.98,4,Mercado Pago,1047,0,0,2500.71
+2025-04-15,Ramos Mejía,Yerba,1443.6,3,Mercado Pago,1059,5,0,4108.82
+2025-06-18,La Tablada,Queso,1021.35,-1,Mercado Pago,1052,0,0,-1016.54
+2025-06-13,Lomas del Mirador,Aceite,349.38,5,Efectivo,1096,0,0,1739.73
+2025-06-28,Ramos Mejía,Pan,288.79,2,Tarjeta Crédito,1036,10,0,502.36
+2025-06-20,San Justo,Fideos,495.56,5,Tarjeta Crédito,1088,15,0,2124.82
+2025-04-30,Lomas del Mirador,Aceite,384.22,3,Tarjeta Débito,1043,5,0,1107.79
+2025-06-01,San Justo,Fideos,356.37,1,Efectivo,1042,0,0,343.96
+2025-04-26,Ramos Mejía,Galletitas,1174.86,1,Efectivo,1080,15,0,1005.96
+2025-06-22,Morón,Arroz,251.73,1,Tarjeta Crédito,1013,15,0,224.6
+2025-06-01,Ramos Mejía,Aceite,1434.24,3,Tarjeta Débito,1041,15,0,3643.48
+2025-05-23,San Justo,Leche,997.73,3,Tarjeta Débito,1074,5,0,2834.86
+2025-04-15,Lomas del Mirador,Yerba,776.34,3,Tarjeta Crédito,1000,15,0,1976.06
+2025-04-13,La Tablada,Arroz,911.04,4,Mercado Pago,1027,10,0,3272.62
+2025-05-02,Ramos Mejía,Aceite,932.28,2,Efectivo,1031,0,0,1848.41
+2025-04-14,Lomas del Mirador,Leche,1069.53,1,Tarjeta Débito,1059,15,0,915.46
+2025-05-31,Morón,Leche,1340.77,4,Mercado Pago,1064,0,0,5344.83
+2025-04-30,Morón,Yerba,1018.04,4,Tarjeta Débito,1037,5,0,3886.06
+2025-05-31,Morón,Aceite,1481.82,2,Mercado Pago,1097,0,0,2950.79
+2025-06-16,Lomas del Mirador,Arroz,586.33,-1,Mercado Pago,1034,15,1,-517.13
+2025-04-27,Ramos Mejía,Cerveza,1460.81,1,Efectivo,1003,5,0,1372.05
+2025-04-20,Lomas del Mirador,Pan,576.79,2,Tarjeta Débito,1078,5,0,1083.57
+2025-06-19,Lomas del Mirador,Leche,743.68,2,Tarjeta Débito,1030,5,0,1394.26
+2025-06-19,La Tablada,Queso,783.04,5,Mercado Pago,1085,5,0,3725.11
+2025-05-08,La Tablada,Aceite,1002.37,5,Tarjeta Crédito,1089,5,0,4756.8
+2025-06-18,Ramos Mejía,Cerveza,1225.05,5,Tarjeta Débito,1005,0,0,6124.85
+2025-04-07,La Tablada,Cerveza,948.42,4,Efectivo,1070,15,0,3229.59
+2025-05-19,Morón,Cerveza,625.12,1,Tarjeta Crédito,1055,0,1,628.73
+2025-06-13,La Tablada,Galletitas,250.16,1,Tarjeta Débito,1046,15,0,194.6
+2025-04-13,Morón,Arroz,773.35,4,Efectivo,1056,5,0,2927.56
+2025-07-01,Ramos Mejía,Leche,200.77,6,Tarjeta Crédito,1076,5,0,1153.1
+2025-05-04,Lomas del Mirador,Aceite,647.8,1,Tarjeta Débito,1050,10,0,563.54
+2025-04-26,Lomas del Mirador,Cerveza,537.55,3,Efectivo,1089,10,0,1468.23
+2025-07-01,La Tablada,Pan,1020.3,3,Tarjeta Crédito,1089,0,0,3067.13
+2025-04-08,Morón,Pan,1469.45,2,Tarjeta Débito,1049,0,0,2956.04
+2025-05-24,San Justo,Jugo,271.9,1,Tarjeta Crédito,1074,15,0,244.4
+2025-06-19,San Justo,Cerveza,952.01,1,Mercado Pago,1070,15,0,807.93
+2025-05-30,San Justo,Pan,669.05,6,Mercado Pago,1081,10,0,3618.43
+2025-06-26,Lomas del Mirador,Queso,933.44,3,Tarjeta Crédito,1100,10,0,2514.73
+2025-04-22,Lomas del Mirador,Leche,1438.21,0,Mercado Pago,1029,15,0,9.74
+2025-06-24,Morón,Arroz,1147.54,1,Mercado Pago,1076,0,0,1163.16
+2025-06-11,La Tablada,Arroz,205.38,1,Tarjeta Crédito,1040,15,1,187.45
+2025-05-13,San Justo,Queso,1377.22,6,Mercado Pago,1028,0,0,8275.09
+2025-05-06,Morón,Aceite,921.74,2,Tarjeta Crédito,1039,15,0,1549.29
+2025-07-06,Morón,Pan,404.12,2,Tarjeta Crédito,1067,5,0,772.51
+2025-04-17,La Tablada,Fideos,966.76,3,Mercado Pago,1085,5,0,2756.43
+2025-05-08,Morón,Pan,826.85,5,Tarjeta Débito,1009,0,0,4143.62
+2025-04-19,La Tablada,Yerba,1442.93,2,Tarjeta Crédito,1015,0,0,2899.24
+2025-04-07,Ramos Mejía,Jugo,758.21,4,Tarjeta Crédito,1086,0,0,3015.96
+2025-05-20,La Tablada,Queso,1244.81,1,Tarjeta Débito,1098,10,0,1108.97
+2025-06-28,San Justo,Queso,1280.46,2,Mercado Pago,1059,10,0,2305.61
+2025-06-02,San Justo,Queso,1476.22,7,Efectivo,1015,15,0,8767.56
+2025-06-18,La Tablada,Fideos,263.84,7,Tarjeta Débito,1088,10,0,1651.43
+2025-04-28,Ramos Mejía,Yerba,1022.27,1,Efectivo,1080,15,0,864.34
+2025-05-26,Ramos Mejía,Jugo,202.84,3,Mercado Pago,1015,15,0,504.97
+2025-05-24,San Justo,Cerveza,1105.29,7,Tarjeta Crédito,1092,15,0,6582.75
+2025-04-08,Ramos Mejía,Cerveza,1487.83,1,Tarjeta Crédito,1028,0,0,1490.63
+2025-05-22,Morón,Aceite,857.49,8,Mercado Pago,1070,5,0,6534.82
+2025-06-20,Lomas del Mirador,Queso,973.24,4,Mercado Pago,1020,10,0,3506.0
+2025-05-12,Morón,Jugo,641.26,4,Mercado Pago,1064,15,0,2182.61
+2025-04-23,San Justo,Aceite,1389.21,5,Mercado Pago,1087,5,0,6608.59
+2025-07-06,Ramos Mejía,Queso,673.01,2,Mercado Pago,1063,15,0,1154.77
+2025-04-25,La Tablada,Queso,1195.53,-1,Mercado Pago,1008,0,0,-1192.47
+2025-05-14,Lomas del Mirador,Leche,1066.51,5,Mercado Pago,1084,15,0,4539.65
+2025-06-06,La Tablada,Queso,220.69,-1,Tarjeta Crédito,1052,10,0,-190.52
+2025-06-05,San Justo,Pan,1001.7,4,Efectivo,1075,5,0,3803.54
+2025-06-13,Ramos Mejía,Fideos,601.78,4,Efectivo,1073,0,0,2391.28
+2025-05-17,La Tablada,Fideos,595.08,5,Tarjeta Crédito,1097,15,0,2540.79
+2025-06-11,La Tablada,Aceite,903.25,5,Tarjeta Débito,1082,10,0,4066.62
+2025-06-12,Lomas del Mirador,Pan,671.86,2,Efectivo,1044,10,0,1209.54
+2025-07-01,Lomas del Mirador,Arroz,490.19,1,Tarjeta Débito,1010,0,0,496.49
+2025-05-14,Ramos Mejía,Fideos,1299.61,0,Tarjeta Crédito,1053,10,0,1.36
+2025-06-07,Lomas del Mirador,Arroz,1451.95,2,Tarjeta Débito,1087,10,0,2617.51
+2025-06-01,La Tablada,Yerba,963.65,2,Tarjeta Crédito,1011,10,0,1751.91
+2025-05-19,La Tablada,Pan,353.0,1,Mercado Pago,1000,10,0,333.8
+2025-05-30,San Justo,Arroz,260.03,1,Mercado Pago,1083,15,0,223.03
+2025-04-29,La Tablada,Leche,1045.88,2,Efectivo,1055,0,0,2111.63
+2025-06-26,Ramos Mejía,Jugo,1387.61,3,Efectivo,1012,5,0,3968.48
+2025-06-30,Morón,Cerveza,568.81,2,Tarjeta Débito,1027,5,0,1077.23
+2025-06-18,San Justo,Queso,1035.67,2,Tarjeta Débito,1000,10,0,1869.54
+2025-05-26,San Justo,Cerveza,1043.88,1,Efectivo,1079,15,0,900.34
+2025-05-28,Ramos Mejía,Aceite,324.08,3,Mercado Pago,1084,10,0,867.95
+2025-04-20,Ramos Mejía,Leche,1106.93,2,Tarjeta Crédito,1029,10,0,1982.1
+2025-05-16,Lomas del Mirador,Fideos,264.37,5,Mercado Pago,1034,15,0,1125.4
+2025-06-27,San Justo,Aceite,904.54,4,Efectivo,1016,0,0,3613.16
+2025-04-09,Lomas del Mirador,Aceite,1018.72,2,Tarjeta Crédito,1057,5,0,1937.58
+2025-05-22,La Tablada,Cerveza,593.44,3,Tarjeta Débito,1035,15,0,1523.06
+2025-07-06,San Justo,Pan,322.52,1,Efectivo,1093,5,0,300.79
+2025-06-16,San Justo,Fideos,1098.82,2,Mercado Pago,1011,15,1,1866.09
+2025-04-09,Morón,Aceite,1428.6,2,Tarjeta Débito,1086,15,1,2447.01
+2025-06-14,San Justo,Queso,1496.17,1,Tarjeta Débito,1027,10,0,1326.56
+2025-06-22,La Tablada,Fideos,1381.8,3,Efectivo,1076,0,0,4126.79
+2025-06-14,Lomas del Mirador,Jugo,276.16,4,Mercado Pago,1064,5,0,1040.79
+2025-07-06,Lomas del Mirador,Pan,1055.12,5,Efectivo,1016,0,0,5256.25
+2025-05-22,Morón,Yerba,836.46,2,Tarjeta Crédito,1025,10,0,1491.03
+2025-05-10,La Tablada,Fideos,174.61,2,Tarjeta Crédito,1045,15,0,312.45
+2025-06-01,Lomas del Mirador,Arroz,566.97,2,Tarjeta Débito,1087,5,0,1057.51
+2025-05-20,Ramos Mejía,Aceite,1434.08,3,Mercado Pago,1010,0,0,4321.62
+2025-04-23,La Tablada,Arroz,611.34,2,Tarjeta Crédito,1020,5,0,1150.14
+2025-05-07,La Tablada,Pan,1184.31,4,Tarjeta Crédito,1060,5,0,4492.97
+2025-05-06,Morón,Leche,409.21,4,Tarjeta Crédito,1082,5,0,1565.86
+2025-06-14,Lomas del Mirador,Arroz,1499.97,1,Tarjeta Crédito,1078,0,0,1517.7
+2025-04-09,La Tablada,Aceite,359.18,2,Efectivo,1052,5,0,695.34
+2025-04-12,Lomas del Mirador,Queso,549.32,2,Tarjeta Débito,1038,0,0,1115.4
+2025-04-16,Ramos Mejía,Queso,1213.96,3,Tarjeta Débito,1067,15,0,3096.05
+2025-07-03,Morón,Aceite,835.38,1,Tarjeta Crédito,1087,0,0,838.21
+2025-05-09,Ramos Mejía,Cerveza,878.69,2,Tarjeta Débito,1042,10,0,1584.51
+2025-06-07,Morón,Pan,1147.17,4,Tarjeta Débito,1081,5,0,4343.02
+2025-06-17,La Tablada,Cerveza,860.82,6,Tarjeta Débito,1045,10,0,4646.84
+2025-06-24,Morón,Aceite,1043.6,2,Tarjeta Débito,1089,10,0,1864.72
+2025-04-14,San Justo,Jugo,1333.13,4,Efectivo,1042,15,0,4523.24
+2025-05-07,Lomas del Mirador,Aceite,984.34,0,Tarjeta Crédito,1067,15,0,15.59
+2025-04-14,Lomas del Mirador,Yerba,956.28,3,Mercado Pago,1089,0,0,2858.83
+2025-06-21,San Justo,Yerba,358.24,4,Efectivo,1040,0,0,1423.21
+2025-05-12,Ramos Mejía,Cerveza,394.14,3,Tarjeta Débito,1058,5,1,1115.31
+2025-06-20,San Justo,Cerveza,1085.34,4,Tarjeta Crédito,1069,10,0,3910.04
+2025-05-05,La Tablada,Pan,993.4,4,Tarjeta Crédito,1051,15,0,3380.32
+2025-05-15,La Tablada,Queso,1368.59,2,Tarjeta Crédito,1014,15,0,2315.3
+2025-05-18,Lomas del Mirador,Leche,1123.6,4,Tarjeta Crédito,1042,5,0,4252.77
+2025-04-26,La Tablada,Jugo,208.98,2,Tarjeta Débito,1015,15,0,348.25
+2025-04-07,Lomas del Mirador,Galletitas,641.8,6,Tarjeta Crédito,1068,10,0,3465.02
+2025-05-14,San Justo,Queso,1121.44,1,Mercado Pago,1043,10,0,1008.83
+2025-07-02,San Justo,Aceite,1458.94,3,Mercado Pago,1032,5,0,4173.94
+2025-05-14,San Justo,Leche,974.3,5,Tarjeta Crédito,1069,10,0,4392.46
+2025-05-15,Lomas del Mirador,Pan,1165.73,3,Tarjeta Débito,1065,0,0,3509.97
+2025-05-20,San Justo,Fideos,1208.13,4,Mercado Pago,1034,10,0,4333.08
+2025-06-26,San Justo,Queso,465.9,4,Mercado Pago,1000,0,1,1869.29
+2025-06-26,Ramos Mejía,Queso,472.88,6,Mercado Pago,1017,15,0,2393.18
+2025-04-18,San Justo,Leche,1453.56,7,Efectivo,1065,0,0,10187.25
+2025-05-16,La Tablada,Aceite,1208.9,3,Efectivo,1006,5,0,3440.63
+2025-07-05,Lomas del Mirador,Queso,1370.37,4,Mercado Pago,1092,5,0,5218.61
+2025-05-04,Ramos Mejía,Leche,411.92,2,Tarjeta Débito,1006,5,0,799.52
+2025-05-12,Morón,Arroz,1065.71,4,Tarjeta Débito,1073,5,0,4043.07
+2025-07-05,Lomas del Mirador,Cerveza,920.07,2,Mercado Pago,1051,5,0,1763.32
+2025-06-23,La Tablada,Yerba,744.81,3,Mercado Pago,1032,10,0,2008.36
+2025-06-23,Lomas del Mirador,Cerveza,1188.74,3,Tarjeta Débito,1086,15,0,3048.5
+2025-05-21,La Tablada,Aceite,1200.47,1,Efectivo,1045,0,0,1185.29
+2025-05-27,La Tablada,Arroz,828.92,3,Efectivo,1100,0,0,2497.58
+2025-06-17,Morón,Queso,715.19,1,Mercado Pago,1056,15,0,617.82
+2025-06-10,Lomas del Mirador,Jugo,368.78,3,Tarjeta Débito,1043,5,0,1065.0
+2025-05-31,Morón,Cerveza,419.59,3,Efectivo,1091,5,0,1212.98
+2025-05-05,Morón,Pan,966.3,0,Mercado Pago,1055,0,0,5.36
+2025-06-23,Lomas del Mirador,Cerveza,1328.55,2,Tarjeta Crédito,1041,5,0,2529.53
+2025-07-07,San Justo,Galletitas,220.44,5,Mercado Pago,1100,10,0,974.15
+2025-06-26,San Justo,Jugo,798.8,1,Tarjeta Crédito,1021,10,0,719.9
+2025-06-01,Morón,Galletitas,651.14,4,Mercado Pago,1087,10,0,2336.88
+2025-06-12,Ramos Mejía,Galletitas,1411.3,-1,Tarjeta Débito,1028,15,0,-1197.01
+2025-04-18,Morón,Pan,1110.39,3,Tarjeta Débito,1012,15,0,2824.57
+2025-04-18,Morón,Arroz,846.48,2,Tarjeta Débito,1063,10,0,1531.57
+2025-06-10,Morón,Galletitas,318.31,-1,Tarjeta Débito,1040,15,0,-284.44
+2025-05-15,San Justo,Jugo,263.23,2,Tarjeta Crédito,1089,10,0,480.76
+2025-05-18,San Justo,Cerveza,366.42,3,Mercado Pago,1014,5,0,1064.19
+2025-06-04,San Justo,Aceite,756.58,5,Tarjeta Débito,1078,15,0,3234.31
+2025-06-29,Morón,Jugo,843.03,2,Efectivo,1059,10,0,1527.57
+2025-05-11,Ramos Mejía,Yerba,1271.91,0,Efectivo,1086,15,0,3.01
+2025-06-28,San Justo,Leche,273.81,1,Efectivo,1042,0,0,257.41
+2025-05-13,Lomas del Mirador,Cerveza,1379.18,0,Mercado Pago,1017,0,0,-2.72
+2025-05-18,Lomas del Mirador,Pan,1252.55,2,Efectivo,1060,10,0,2266.04
+2025-06-30,Lomas del Mirador,Galletitas,1344.25,3,Efectivo,1089,10,0,3615.4
+2025-05-23,La Tablada,Aceite,1406.14,4,Tarjeta Crédito,1061,10,0,5055.55
+2025-07-01,Morón,Galletitas,710.11,5,Mercado Pago,1074,0,0,3549.58
+2025-07-02,Lomas del Mirador,Pan,685.21,4,Mercado Pago,1063,15,0,2339.53
+2025-05-20,Morón,Jugo,654.85,2,Efectivo,1100,0,0,1311.63
+2025-06-23,Lomas del Mirador,Yerba,671.32,5,Mercado Pago,1006,10,1,3011.44
+2025-05-28,Ramos Mejía,Leche,260.17,0,Tarjeta Crédito,1046,10,0,-4.06
+2025-04-19,Morón,Yerba,453.13,2,Tarjeta Crédito,1067,10,0,813.01
+2025-04-21,Lomas del Mirador,Cerveza,580.22,3,Tarjeta Débito,1014,10,0,1574.51
+2025-06-23,San Justo,Jugo,283.76,5,Tarjeta Crédito,1052,10,0,1287.4
+2025-07-04,Morón,Leche,1114.85,3,Tarjeta Débito,1019,10,0,3009.33
+2025-04-09,La Tablada,Fideos,602.64,3,Efectivo,1086,5,0,1705.45
+2025-04-19,San Justo,Yerba,347.17,2,Tarjeta Débito,1063,5,0,655.44
+2025-05-20,San Justo,Galletitas,201.71,2,Tarjeta Débito,1075,5,0,386.1
+2025-04-27,La Tablada,Queso,1388.48,2,Efectivo,1013,0,0,2779.41
+2025-05-08,San Justo,Cerveza,787.81,4,Tarjeta Débito,1040,15,0,2698.44
+2025-06-07,San Justo,Cerveza,1272.0,1,Tarjeta Crédito,1022,10,0,1145.77
+2025-06-17,Lomas del Mirador,Leche,1174.44,3,Efectivo,1007,5,0,3336.85
+2025-05-15,Lomas del Mirador,Fideos,783.3,5,Mercado Pago,1037,0,0,3907.15
+2025-05-05,Morón,Aceite,980.72,2,Tarjeta Débito,1084,15,0,1664.43
+2025-05-29,Morón,Yerba,1372.91,3,Tarjeta Crédito,1061,10,0,3714.25
+2025-06-15,Morón,Arroz,175.66,2,Mercado Pago,1023,10,0,319.23
+2025-06-25,Lomas del Mirador,Aceite,441.13,1,Efectivo,1059,15,0,359.46
+2025-05-31,Morón,Cerveza,351.85,3,Efectivo,1062,15,0,893.76
+2025-04-21,San Justo,Cerveza,1419.31,6,Efectivo,1050,15,0,7233.09
+2025-04-09,Lomas del Mirador,Pan,971.99,2,Tarjeta Crédito,1048,0,0,1931.6
+2025-04-22,Morón,Leche,721.39,6,Mercado Pago,1054,5,0,4105.7
+2025-07-07,San Justo,Queso,1197.83,7,Efectivo,1057,10,0,7552.55
+2025-06-21,Morón,Fideos,470.81,2,Tarjeta Crédito,1070,5,0,905.33
+2025-06-21,Ramos Mejía,Arroz,314.5,2,Tarjeta Crédito,1008,15,0,521.42
+2025-05-09,Morón,Aceite,471.89,3,Mercado Pago,1074,10,0,1268.09
+2025-05-07,Ramos Mejía,Yerba,1012.58,0,Efectivo,1088,10,0,12.86
+2025-05-14,Morón,Leche,990.79,2,Efectivo,1074,5,0,1894.61
+2025-06-08,La Tablada,Yerba,234.79,5,Tarjeta Débito,1064,5,0,1120.18
+2025-06-14,Morón,Jugo,1279.53,0,Efectivo,1009,10,0,-2.38
+2025-06-06,Lomas del Mirador,Pan,824.77,8,Mercado Pago,1052,0,0,6615.13
+2025-06-03,Lomas del Mirador,Fideos,873.67,5,Tarjeta Crédito,1008,15,0,3702.44
+2025-07-05,Ramos Mejía,Pan,1003.14,3,Mercado Pago,1025,5,0,2866.36
+2025-07-06,Lomas del Mirador,Cerveza,926.31,3,Efectivo,1010,10,0,2487.28
+2025-04-10,San Justo,Pan,1120.03,1,Tarjeta Crédito,1056,5,0,1073.17
+2025-04-19,La Tablada,Arroz,543.22,1,Mercado Pago,1077,10,0,472.33
+2025-06-13,La Tablada,Cerveza,152.11,5,Efectivo,1047,0,0,770.13
+2025-04-15,San Justo,Aceite,626.3,3,Efectivo,1043,5,0,1774.68
+2025-06-16,Ramos Mejía,Yerba,920.4,3,Efectivo,1038,10,0,2489.92
+2025-05-23,San Justo,Aceite,402.87,6,Tarjeta Débito,1046,5,0,2282.27
+2025-05-23,San Justo,Jugo,1052.09,1,Tarjeta Débito,1092,10,0,960.18
+2025-06-05,La Tablada,Cerveza,856.7,1,Tarjeta Débito,1022,15,0,719.7
+2025-06-07,Morón,Cerveza,636.82,3,Tarjeta Crédito,1058,10,0,1713.14
+2025-04-30,La Tablada,Fideos,1437.09,5,Mercado Pago,1046,10,0,6479.08
+2025-05-08,La Tablada,Cerveza,884.51,3,Tarjeta Crédito,1098,10,0,2380.38
+2025-04-12,Lomas del Mirador,Yerba,1211.66,4,Tarjeta Crédito,1034,10,0,4360.82
+2025-04-25,San Justo,Arroz,835.29,2,Efectivo,1011,15,0,1413.27
+2025-04-28,La Tablada,Jugo,177.45,5,Efectivo,1028,0,0,896.85
+2025-06-22,San Justo,Fideos,1329.0,2,Tarjeta Crédito,1058,15,0,2247.78
+2025-05-08,Lomas del Mirador,Queso,208.77,4,Mercado Pago,1070,0,0,836.94
+2025-04-16,San Justo,Yerba,672.29,0,Tarjeta Débito,1050,0,0,10.01
+2025-06-23,La Tablada,Arroz,653.96,1,Tarjeta Crédito,1045,15,0,557.82
+2025-05-11,San Justo,Pan,1158.88,4,Tarjeta Crédito,1067,5,0,4408.67
+2025-05-31,Lomas del Mirador,Aceite,632.08,6,Mercado Pago,1072,0,0,3812.17
+2025-06-22,Morón,Jugo,241.21,8,Mercado Pago,1054,15,0,1648.03
+2025-04-23,San Justo,Galletitas,475.52,3,Tarjeta Crédito,1006,10,0,1290.63
+2025-05-05,La Tablada,Yerba,1037.09,2,Efectivo,1046,15,0,1758.12
+2025-05-29,Lomas del Mirador,Aceite,289.95,5,Efectivo,1054,0,0,1465.99
+2025-04-10,La Tablada,Leche,935.57,-1,Tarjeta Crédito,1005,5,0,-887.72
+2025-06-03,La Tablada,Aceite,1171.52,4,Efectivo,1081,5,0,4441.99
+2025-05-29,San Justo,Aceite,330.1,4,Mercado Pago,1033,5,0,1236.78
+2025-04-15,La Tablada,Queso,625.6,7,Tarjeta Débito,1021,10,0,3929.31
+2025-06-14,San Justo,Queso,607.04,2,Mercado Pago,1009,15,0,1039.83
+2025-05-12,Morón,Cerveza,1017.77,1,Tarjeta Débito,1068,15,0,855.96
+2025-05-29,La Tablada,Arroz,1271.02,2,Tarjeta Crédito,1037,5,0,2413.54
+2025-05-19,La Tablada,Cerveza,1074.32,6,Tarjeta Crédito,1039,10,0,5819.14
+2025-07-07,La Tablada,Yerba,1474.11,0,Tarjeta Débito,1026,5,0,-17.34
+2025-06-05,Ramos Mejía,Cerveza,796.02,5,Efectivo,1012,0,0,3986.51
+2025-04-25,Ramos Mejía,Galletitas,396.08,5,Tarjeta Crédito,1041,15,0,1689.86
+2025-06-28,Lomas del Mirador,Galletitas,332.05,2,Tarjeta Débito,1091,10,0,614.2
+2025-04-18,Ramos Mejía,Yerba,1116.66,3,Efectivo,1033,5,0,3176.89
+2025-04-11,Lomas del Mirador,Yerba,1423.87,3,Tarjeta Débito,1010,10,0,3828.76
+2025-05-23,Ramos Mejía,Jugo,199.93,4,Tarjeta Crédito,1086,0,0,791.42
+2025-05-10,Morón,Cerveza,422.15,1,Tarjeta Crédito,1088,0,0,437.49
+2025-05-12,Lomas del Mirador,Galletitas,1218.0,5,Mercado Pago,1056,15,0,5171.96
+2025-06-03,Ramos Mejía,Fideos,1345.82,5,Tarjeta Débito,1093,10,0,6075.38
+2025-05-12,Morón,Fideos,576.05,-1,Efectivo,1087,5,0,-546.91
+2025-06-16,Ramos Mejía,Queso,568.6,3,Tarjeta Crédito,1059,5,0,1628.9
+2025-05-28,San Justo,Jugo,687.6,1,Mercado Pago,1027,5,0,669.37
+2025-06-18,San Justo,Fideos,1250.8,2,Mercado Pago,1082,15,0,2125.75
+2025-05-19,Morón,Jugo,789.09,4,Efectivo,1016,0,1,3160.24
+2025-06-13,La Tablada,Leche,199.44,1,Tarjeta Crédito,1023,5,0,172.99
+2025-06-01,La Tablada,Galletitas,1023.32,2,Mercado Pago,1081,15,0,1727.6
+2025-06-24,San Justo,Cerveza,536.25,6,Efectivo,1030,15,0,2753.55
+2025-05-26,San Justo,Jugo,1313.89,0,Efectivo,1029,15,0,2.43
+2025-05-21,La Tablada,Jugo,214.54,2,Tarjeta Débito,1045,15,0,373.22
+2025-04-13,Lomas del Mirador,Arroz,1035.24,3,Tarjeta Débito,1087,15,0,2621.45
+2025-05-09,La Tablada,Cerveza,518.84,1,Tarjeta Crédito,1017,15,0,457.9
+2025-06-26,Ramos Mejía,Leche,1229.11,2,Mercado Pago,1061,0,1,2450.42
+2025-04-18,Lomas del Mirador,Arroz,739.88,0,Mercado Pago,1003,0,0,-0.4
+2025-05-11,Ramos Mejía,Yerba,690.03,2,Tarjeta Débito,1045,5,0,1320.83
+2025-06-02,San Justo,Queso,743.64,3,Tarjeta Crédito,1080,10,0,1988.56
+2025-06-07,Lomas del Mirador,Galletitas,1441.25,0,Mercado Pago,1025,0,0,7.37
+2025-05-15,Ramos Mejía,Pan,607.7,1,Efectivo,1068,10,0,541.15
+2025-05-13,Ramos Mejía,Cerveza,402.2,-1,Efectivo,1042,5,0,-390.0
+2025-07-05,Lomas del Mirador,Pan,1084.29,1,Efectivo,1069,0,0,1104.13
+2025-06-22,Morón,Yerba,645.92,8,Efectivo,1024,0,0,5186.5
+2025-05-30,La Tablada,Cerveza,1226.34,6,Tarjeta Débito,1081,5,0,6981.17
+2025-06-19,Ramos Mejía,Leche,510.07,0,Tarjeta Crédito,1050,5,0,-17.52
+2025-04-09,La Tablada,Arroz,261.53,2,Efectivo,1028,10,0,461.06
+2025-04-28,La Tablada,Jugo,723.07,5,Efectivo,1021,10,0,3249.3
+2025-05-05,San Justo,Arroz,731.32,6,Mercado Pago,1077,5,0,4188.52
+2025-05-05,La Tablada,Pan,1493.38,6,Tarjeta Débito,1026,0,0,8979.89
+2025-07-05,Ramos Mejía,Cerveza,393.62,-1,Mercado Pago,1002,15,0,-316.81
+2025-05-23,San Justo,Aceite,546.58,4,Mercado Pago,1005,10,0,1985.65
+2025-05-07,Lomas del Mirador,Galletitas,288.51,4,Mercado Pago,1100,5,0,1085.36
+2025-06-11,Ramos Mejía,Queso,592.69,8,Efectivo,1089,0,0,4735.19
+2025-04-24,San Justo,Jugo,549.11,4,Tarjeta Crédito,1079,0,0,2192.15
+2025-05-22,San Justo,Pan,751.99,4,Tarjeta Débito,1047,10,0,2692.65
+2025-05-14,La Tablada,Galletitas,1118.84,2,Efectivo,1010,10,0,2023.11
+2025-06-02,Lomas del Mirador,Yerba,374.97,5,Tarjeta Débito,1097,15,0,1594.45
+2025-06-05,Ramos Mejía,Jugo,749.28,5,Efectivo,1003,10,0,3378.88
+2025-06-30,Ramos Mejía,Galletitas,753.63,3,Tarjeta Crédito,1013,15,0,1936.66
+2025-04-28,La Tablada,Cerveza,1131.2,2,Tarjeta Crédito,1056,5,0,2156.74
+2025-06-10,Lomas del Mirador,Yerba,1380.67,4,Tarjeta Débito,1053,10,0,4967.11
+2025-04-15,Ramos Mejía,Leche,980.05,3,Mercado Pago,1023,15,0,2502.04
+2025-05-02,Lomas del Mirador,Queso,737.17,4,Efectivo,1027,10,0,2650.87
+2025-04-27,Ramos Mejía,Pan,1013.28,2,Tarjeta Débito,1030,5,0,1917.73
+2025-06-23,La Tablada,Fideos,1218.5,1,Mercado Pago,1085,5,0,1161.79
+2025-06-21,Morón,Aceite,227.43,8,Tarjeta Crédito,1070,15,0,1544.49
+2025-05-13,Ramos Mejía,Fideos,1056.1,1,Efectivo,1038,0,1,1041.37
+2025-05-09,San Justo,Pan,698.38,0,Tarjeta Crédito,1091,5,0,6.1
+2025-04-13,San Justo,Jugo,842.67,1,Efectivo,1076,5,0,803.78
+2025-05-26,Morón,Pan,1162.36,2,Mercado Pago,1040,5,0,2215.85
+2025-06-11,Ramos Mejía,Pan,365.98,1,Efectivo,1054,5,0,335.77
+2025-06-01,San Justo,Cerveza,192.04,3,Mercado Pago,1019,0,0,561.64
+2025-06-27,San Justo,Arroz,1295.7,7,Efectivo,1037,5,0,8623.95
+2025-04-12,Ramos Mejía,Aceite,1065.42,0,Tarjeta Débito,1016,0,0,15.95
+2025-05-21,Lomas del Mirador,Leche,741.53,1,Tarjeta Crédito,1047,10,0,683.76
+2025-04-22,Ramos Mejía,Leche,320.41,2,Efectivo,1026,0,0,638.02
+2025-05-17,Lomas del Mirador,Galletitas,468.59,2,Efectivo,1051,15,0,812.96
+2025-05-11,Morón,Leche,1020.97,8,Tarjeta Crédito,1007,10,0,7361.79
+2025-05-08,La Tablada,Aceite,638.9,6,Efectivo,1046,0,0,3839.65
+2025-04-30,Morón,Galletitas,1431.78,2,Tarjeta Crédito,1016,0,0,2866.15
+2025-05-28,La Tablada,Galletitas,193.72,1,Mercado Pago,1051,0,0,180.04
+2025-06-26,San Justo,Jugo,357.14,8,Tarjeta Débito,1086,0,0,2839.83
+2025-05-13,San Justo,Arroz,757.4,5,Tarjeta Débito,1061,0,0,3788.32
+2025-04-24,San Justo,Fideos,650.8,4,Tarjeta Crédito,1093,0,1,2611.98
+2025-05-17,Lomas del Mirador,Yerba,749.32,1,Tarjeta Débito,1058,15,0,624.29
+2025-06-15,La Tablada,Jugo,253.8,3,Tarjeta Crédito,1005,15,0,660.77
+2025-05-26,San Justo,Queso,335.89,3,Tarjeta Débito,1094,15,0,842.34
+2025-05-31,Ramos Mejía,Arroz,645.38,3,Efectivo,1067,0,0,1917.32
+2025-06-24,La Tablada,Arroz,574.42,2,Efectivo,1059,10,0,1026.7
+2025-05-30,La Tablada,Arroz,526.23,2,Tarjeta Débito,1035,15,0,913.51
+2025-05-02,Lomas del Mirador,Pan,1446.7,7,Mercado Pago,1048,5,0,9639.0
+2025-07-07,Morón,Queso,184.98,2,Tarjeta Débito,1049,5,0,343.6
+2025-06-07,Lomas del Mirador,Jugo,401.16,5,Efectivo,1033,0,0,2015.62
+2025-06-10,San Justo,Queso,848.96,1,Tarjeta Débito,1058,10,0,776.93
+2025-06-22,Ramos Mejía,Fideos,1383.28,1,Efectivo,1086,15,0,1181.26
+2025-04-19,Ramos Mejía,Cerveza,308.98,2,Mercado Pago,1014,0,0,627.49
+2025-05-21,San Justo,Queso,1196.2,4,Mercado Pago,1075,10,0,4292.4
+2025-06-17,Ramos Mejía,Arroz,1100.45,2,Tarjeta Débito,1072,5,0,2078.37
+2025-05-14,Lomas del Mirador,Fideos,439.67,3,Efectivo,1013,15,0,1106.42
+2025-05-29,Lomas del Mirador,Cerveza,976.03,1,Mercado Pago,1079,0,0,957.08
+2025-06-19,San Justo,Aceite,1086.87,5,Tarjeta Crédito,1084,0,1,5453.79
+2025-06-20,Ramos Mejía,Cerveza,1498.15,6,Tarjeta Débito,1044,10,0,8094.69
+2025-05-05,La Tablada,Aceite,420.24,5,Tarjeta Crédito,1033,0,0,2105.42
+2025-04-11,Morón,Leche,333.23,4,Tarjeta Débito,1042,0,0,1337.41
+2025-05-09,La Tablada,Cerveza,249.97,2,Efectivo,1028,15,0,428.8
+2025-06-16,Lomas del Mirador,Aceite,383.09,4,Efectivo,1002,5,0,1444.98
+2025-05-17,Lomas del Mirador,Yerba,1113.05,0,Tarjeta Crédito,1062,5,0,-18.96
+2025-05-22,Lomas del Mirador,Arroz,1496.3,2,Efectivo,1065,10,0,2676.52
+2025-05-31,Lomas del Mirador,Pan,1244.19,3,Efectivo,1056,5,0,3557.13
+2025-07-04,Morón,Cerveza,1456.21,6,Efectivo,1088,10,0,7848.9
+2025-06-27,San Justo,Galletitas,1481.88,1,Tarjeta Crédito,1083,15,0,1273.44
+2025-05-10,Lomas del Mirador,Queso,1051.58,1,Efectivo,1073,10,0,945.17
+2025-05-26,Ramos Mejía,Aceite,1107.88,2,Mercado Pago,1073,5,0,2110.95
+2025-04-30,Morón,Jugo,892.5,1,Tarjeta Débito,1099,0,0,879.86
+2025-05-12,Lomas del Mirador,Aceite,541.99,1,Mercado Pago,1087,15,0,456.19
+2025-06-14,Ramos Mejía,Cerveza,554.94,2,Tarjeta Crédito,1033,5,0,1053.34
+2025-05-08,Lomas del Mirador,Aceite,362.63,6,Tarjeta Crédito,1023,15,0,1835.96
+2025-06-20,San Justo,Fideos,1107.91,6,Efectivo,1093,10,0,5971.76
+2025-05-01,Morón,Jugo,1095.3,3,Mercado Pago,1037,5,0,3117.95
+2025-04-20,San Justo,Cerveza,385.02,2,Tarjeta Crédito,1028,0,0,788.79
+2025-06-22,Morón,Pan,638.01,5,Tarjeta Débito,1060,0,0,3207.07
+2025-04-29,Lomas del Mirador,Fideos,452.73,3,Tarjeta Crédito,1075,0,0,1376.2
+2025-05-13,Lomas del Mirador,Jugo,1479.93,3,Mercado Pago,1032,0,0,4428.69
+2025-05-09,Morón,Queso,1219.29,4,Tarjeta Débito,1054,15,0,4152.44
+2025-07-05,Ramos Mejía,Galletitas,469.59,0,Tarjeta Débito,1003,5,0,-11.89
+2025-05-14,Ramos Mejía,Queso,816.93,1,Efectivo,1029,0,0,805.11
+2025-05-16,Lomas del Mirador,Aceite,637.21,3,Tarjeta Débito,1092,0,0,1898.71
+2025-04-16,Lomas del Mirador,Aceite,922.57,4,Efectivo,1027,0,0,3708.47
+2025-05-27,San Justo,Leche,781.0,5,Efectivo,1080,10,0,3512.07
+2025-06-08,Lomas del Mirador,Jugo,1477.07,2,Tarjeta Crédito,1085,5,0,2811.12
+2025-05-18,Morón,Aceite,325.19,4,Tarjeta Crédito,1017,15,0,1113.16
+2025-04-26,Ramos Mejía,Leche,1343.73,1,Efectivo,1086,10,0,1224.03
+2025-06-24,Ramos Mejía,Queso,238.76,3,Mercado Pago,1084,10,0,660.16
+2025-05-05,San Justo,Leche,687.52,6,Efectivo,1021,15,0,3503.45
+2025-06-03,Ramos Mejía,Queso,1117.86,1,Mercado Pago,1094,0,0,1128.91
+2025-04-28,Ramos Mejía,Cerveza,796.2,2,Tarjeta Débito,1022,0,0,1596.72
+2025-04-23,La Tablada,Aceite,704.57,0,Tarjeta Débito,1028,5,0,12.97
+2025-04-13,Morón,Fideos,702.74,4,Tarjeta Débito,1057,0,0,2819.77
+2025-04-11,La Tablada,Queso,926.12,2,Efectivo,1076,10,0,1662.78
+2025-05-10,Ramos Mejía,Galletitas,319.19,3,Mercado Pago,1087,10,0,879.38
+2025-04-09,San Justo,Fideos,577.99,2,Efectivo,1096,10,0,1043.26
+2025-05-17,San Justo,Fideos,250.12,1,Tarjeta Débito,1098,15,0,214.05
+2025-07-03,Ramos Mejía,Queso,778.87,2,Tarjeta Crédito,1010,0,0,1563.4
+2025-05-09,Lomas del Mirador,Aceite,848.44,1,Tarjeta Débito,1090,0,0,856.6
+2025-06-28,La Tablada,Arroz,323.25,0,Tarjeta Débito,1083,0,0,-18.46
+2025-04-30,Ramos Mejía,Pan,1269.22,3,Tarjeta Crédito,1074,0,0,3792.03
+2025-05-29,San Justo,Leche,894.26,4,Mercado Pago,1064,5,0,3396.46
+2025-04-14,San Justo,Aceite,943.51,3,Tarjeta Débito,1065,5,0,2704.11
+2025-06-08,La Tablada,Cerveza,1186.51,3,Mercado Pago,1050,10,0,3218.69
+2025-05-03,Morón,Leche,324.19,3,Tarjeta Crédito,1006,10,0,865.14
+2025-05-03,Ramos Mejía,Queso,828.87,1,Tarjeta Crédito,1013,15,0,706.05
+2025-06-12,Ramos Mejía,Galletitas,1322.09,1,Tarjeta Crédito,1025,10,0,1209.23
+2025-06-26,Morón,Arroz,1272.38,3,Efectivo,1010,0,0,3798.71
+2025-06-07,La Tablada,Pan,849.44,5,Mercado Pago,1054,10,0,3817.98
+2025-05-31,La Tablada,Aceite,560.57,3,Efectivo,1061,10,0,1524.15
+2025-06-16,San Justo,Galletitas,368.66,2,Tarjeta Crédito,1032,5,0,718.96
+2025-04-09,Morón,Jugo,1411.9,3,Tarjeta Débito,1095,0,0,4223.29
+2025-04-21,La Tablada,Arroz,454.38,7,Efectivo,1066,15,0,2701.14
+2025-04-29,Lomas del Mirador,Fideos,1429.1,1,Tarjeta Débito,1034,15,0,1230.11
+2025-05-31,Ramos Mejía,Arroz,850.51,7,Efectivo,1042,15,0,5071.48
+2025-06-06,San Justo,Yerba,533.47,2,Mercado Pago,1083,10,1,951.68
+2025-05-31,Morón,Galletitas,256.46,0,Tarjeta Débito,1004,15,0,-13.34
+2025-05-31,San Justo,Yerba,415.01,3,Efectivo,1078,15,0,1050.05
+2025-06-11,La Tablada,Yerba,1441.07,2,Tarjeta Crédito,1037,15,0,2466.58
+2025-05-14,La Tablada,Aceite,520.51,5,Tarjeta Crédito,1065,5,1,2480.02
+2025-06-09,Lomas del Mirador,Arroz,993.78,4,Mercado Pago,1060,0,0,3991.27
+2025-06-17,Ramos Mejía,Aceite,979.48,2,Mercado Pago,1073,5,0,1859.56
+2025-07-03,Morón,Cerveza,276.13,2,Efectivo,1092,0,0,558.1
+2025-05-20,San Justo,Aceite,1015.33,3,Tarjeta Crédito,1057,5,0,2877.31
+2025-06-12,Ramos Mejía,Galletitas,948.94,4,Tarjeta Débito,1015,0,0,3795.79
+2025-05-04,La Tablada,Pan,933.87,2,Efectivo,1038,15,0,1574.77
+2025-06-03,Ramos Mejía,Cerveza,381.12,1,Efectivo,1089,15,0,327.37
+2025-04-22,San Justo,Pan,993.05,6,Tarjeta Crédito,1087,15,0,5080.33
+2025-05-07,Ramos Mejía,Arroz,1367.7,2,Mercado Pago,1061,5,0,2600.49
+2025-04-15,La Tablada,Fideos,605.79,4,Tarjeta Débito,1057,15,0,2055.41
+2025-04-30,Ramos Mejía,Jugo,1397.31,3,Mercado Pago,1027,10,0,3765.68
+2025-04-12,Morón,Yerba,205.61,3,Efectivo,1038,0,0,597.83
+2025-04-29,Ramos Mejía,Galletitas,1316.1,5,Efectivo,1053,5,0,6249.62
+2025-06-15,Morón,Pan,259.65,4,Tarjeta Crédito,1014,15,0,898.67
+2025-05-01,Ramos Mejía,Jugo,1430.54,2,Mercado Pago,1059,15,0,2447.75
+2025-06-04,La Tablada,Leche,1190.88,1,Efectivo,1016,0,0,1206.18
+2025-06-02,Lomas del Mirador,Aceite,507.29,6,Efectivo,1060,15,0,2570.79
+2025-04-11,Lomas del Mirador,Yerba,434.59,4,Mercado Pago,1059,15,0,1470.57
+2025-04-23,Morón,Pan,922.39,6,Tarjeta Crédito,1093,0,0,5540.28
+2025-07-06,Morón,Cerveza,984.45,0,Tarjeta Crédito,1031,0,0,8.46
+2025-06-13,Lomas del Mirador,Galletitas,190.89,4,Tarjeta Débito,1058,10,0,673.76
+2025-05-02,La Tablada,Aceite,1350.15,3,Tarjeta Débito,1016,10,0,3654.74
+2025-06-26,La Tablada,Queso,886.53,2,Tarjeta Débito,1088,0,0,1756.71
+2025-06-27,Ramos Mejía,Jugo,1016.57,2,Mercado Pago,1058,5,0,1939.73
+2025-07-06,Morón,Galletitas,557.83,0,Tarjeta Débito,1088,10,0,5.36
+2025-06-01,La Tablada,Pan,480.59,4,Tarjeta Débito,1035,0,0,1905.77
+2025-06-28,San Justo,Fideos,1239.92,1,Mercado Pago,1073,15,0,1062.22
+2025-05-17,Ramos Mejía,Cerveza,698.22,8,Tarjeta Débito,1041,5,0,5315.55
+2025-04-15,Ramos Mejía,Leche,762.28,3,Tarjeta Crédito,1066,15,0,1962.82
+2025-06-22,Lomas del Mirador,Queso,1079.63,2,Efectivo,1037,10,0,1947.82
+2025-06-10,Morón,Yerba,363.41,4,Tarjeta Crédito,1081,15,0,1221.99
+2025-06-03,La Tablada,Galletitas,711.09,5,Tarjeta Crédito,1043,5,0,3379.69
+2025-06-09,La Tablada,Queso,777.0,2,Efectivo,1015,0,0,1535.76
+2025-05-24,Ramos Mejía,Fideos,609.26,0,Tarjeta Crédito,1091,0,1,-13.16
+2025-05-16,Morón,Pan,343.95,5,Efectivo,1067,5,0,1627.17
+2025-06-16,Morón,Cerveza,1313.0,2,Tarjeta Crédito,1054,15,0,2246.95
+2025-05-16,Morón,Aceite,581.08,6,Mercado Pago,1082,15,0,2978.01
+2025-04-08,Lomas del Mirador,Jugo,1483.83,2,Mercado Pago,1048,5,0,2805.76
+2025-05-29,La Tablada,Pan,616.25,3,Tarjeta Débito,1066,0,0,1834.53
+2025-05-08,Morón,Arroz,688.27,3,Mercado Pago,1008,15,0,1765.85
+2025-05-19,Lomas del Mirador,Leche,1176.9,1,Efectivo,1059,10,0,1041.26
+2025-04-08,San Justo,Leche,845.22,3,Tarjeta Débito,1072,5,0,2401.2
+2025-05-31,Ramos Mejía,Aceite,293.35,5,Tarjeta Crédito,1067,10,0,1329.28
+2025-06-07,La Tablada,Cerveza,476.35,2,Mercado Pago,1017,10,1,875.87
+2025-05-27,La Tablada,Pan,315.4,3,Tarjeta Débito,1076,0,0,937.75
+2025-05-30,Ramos Mejía,Pan,756.95,2,Mercado Pago,1004,5,0,1425.43
+2025-05-09,San Justo,Fideos,340.18,2,Tarjeta Débito,1037,15,0,594.25
+2025-07-03,Lomas del Mirador,Yerba,218.32,1,Efectivo,1074,15,0,203.99
+2025-06-14,Ramos Mejía,Arroz,1426.27,2,Efectivo,1013,5,0,2690.05
+2025-07-05,Lomas del Mirador,Jugo,1316.62,3,Tarjeta Crédito,1085,0,0,3960.48
+2025-05-31,Lomas del Mirador,Cerveza,714.48,3,Tarjeta Débito,1091,15,0,1802.41
+2025-05-03,Lomas del Mirador,Galletitas,1449.63,1,Efectivo,1054,15,0,1232.09
+2025-05-10,San Justo,Yerba,1368.12,2,Tarjeta Crédito,1028,15,0,2325.75
+2025-04-14,San Justo,Jugo,1248.2,3,Tarjeta Débito,1030,0,0,3756.9
+2025-05-09,Lomas del Mirador,Queso,1410.56,4,Tarjeta Crédito,1089,15,0,4800.22
+2025-06-08,Morón,Arroz,1123.52,3,Efectivo,1008,15,0,2864.71
+2025-06-15,La Tablada,Jugo,406.28,4,Tarjeta Crédito,1022,10,0,1451.28
+2025-05-11,San Justo,Pan,365.11,3,Tarjeta Débito,1001,0,0,1101.71
+2025-04-11,Morón,Cerveza,1494.56,2,Mercado Pago,1005,15,0,2538.9
+2025-04-15,Morón,Queso,780.2,4,Efectivo,1089,0,0,3118.48
+2025-06-08,La Tablada,Jugo,1336.75,1,Tarjeta Débito,1000,0,0,1340.8
+2025-07-03,Lomas del Mirador,Aceite,821.45,2,Tarjeta Débito,1038,15,0,1376.73
+2025-04-15,Morón,Leche,271.57,1,Tarjeta Crédito,1039,15,0,246.12
+2025-04-30,Morón,Galletitas,680.88,7,Efectivo,1044,0,0,4757.28
+2025-05-14,Morón,Fideos,767.26,0,Mercado Pago,1055,0,0,5.15
+2025-06-24,Lomas del Mirador,Cerveza,474.98,1,Mercado Pago,1098,0,0,487.78
+2025-05-26,Lomas del Mirador,Cerveza,937.51,3,Tarjeta Crédito,1033,10,0,2519.58
+2025-04-14,San Justo,Fideos,215.69,3,Efectivo,1094,5,0,602.11
+2025-06-14,San Justo,Galletitas,529.83,4,Mercado Pago,1020,15,0,1783.62
+2025-04-26,Morón,Pan,956.65,3,Efectivo,1096,10,0,2576.92
+2025-04-11,Lomas del Mirador,Galletitas,1287.85,0,Tarjeta Crédito,1044,10,0,-14.19
+2025-06-25,Lomas del Mirador,Yerba,1057.9,2,Efectivo,1081,0,0,2097.1
+2025-05-13,La Tablada,Galletitas,535.76,5,Efectivo,1072,5,0,2547.98
+2025-04-14,Morón,Leche,161.04,3,Efectivo,1015,15,0,414.78
+2025-05-04,San Justo,Jugo,295.12,3,Tarjeta Crédito,1038,10,0,790.07
+2025-06-29,La Tablada,Aceite,330.81,6,Tarjeta Crédito,1027,15,0,1670.64
+2025-06-28,Lomas del Mirador,Fideos,507.04,2,Tarjeta Crédito,1043,10,0,897.03
+2025-04-30,San Justo,Pan,643.8,3,Mercado Pago,1091,15,0,1661.44
+2025-06-14,Morón,Cerveza,694.39,3,Tarjeta Débito,1002,0,0,2069.62
+2025-05-10,Lomas del Mirador,Pan,211.08,8,Efectivo,1027,0,0,1680.02
+2025-06-02,Morón,Fideos,219.06,3,Tarjeta Débito,1019,5,0,630.76
+2025-07-07,La Tablada,Queso,908.45,5,Efectivo,1051,0,0,4550.24
+2025-06-25,La Tablada,Leche,639.41,4,Efectivo,1028,10,0,2304.77
+2025-06-08,La Tablada,Leche,539.61,3,Efectivo,1020,10,0,1459.43
+2025-06-30,Ramos Mejía,Galletitas,671.57,2,Tarjeta Crédito,1043,10,1,1227.48
+2025-06-29,Morón,Fideos,757.98,4,Mercado Pago,1006,10,0,2738.7
+2025-05-11,La Tablada,Arroz,892.31,2,Tarjeta Crédito,1026,0,0,1779.03
+2025-06-25,La Tablada,Queso,1264.17,4,Efectivo,1067,0,0,5038.11
+2025-05-08,Morón,Fideos,991.38,3,Tarjeta Débito,1038,5,0,2836.17
+2025-04-11,La Tablada,Pan,974.91,4,Efectivo,1015,15,0,3307.61
+2025-05-29,Morón,Yerba,323.7,3,Efectivo,1055,5,0,938.45
+2025-04-23,Lomas del Mirador,Fideos,280.52,6,Mercado Pago,1089,15,0,1443.46
+2025-05-31,Morón,Queso,653.82,1,Efectivo,1052,0,0,664.16
+2025-04-10,Morón,Fideos,1482.16,8,Tarjeta Crédito,1093,10,1,10685.28
+2025-05-15,Ramos Mejía,Fideos,903.07,2,Mercado Pago,1032,5,0,1698.43
+2025-06-25,Lomas del Mirador,Galletitas,643.57,5,Mercado Pago,1100,5,0,3055.79
+2025-04-25,Ramos Mejía,Arroz,344.76,3,Mercado Pago,1091,0,0,1019.16
+2025-04-29,La Tablada,Queso,963.32,0,Efectivo,1081,15,0,14.38
+2025-05-27,Morón,Leche,691.87,3,Mercado Pago,1064,5,0,1965.0
+2025-04-20,Lomas del Mirador,Aceite,204.34,2,Mercado Pago,1003,15,0,343.93
+2025-05-29,Ramos Mejía,Arroz,202.53,3,Tarjeta Crédito,1052,5,0,565.6
+2025-06-10,Morón,Arroz,1113.35,4,Tarjeta Débito,1027,10,0,3996.42
+2025-06-24,San Justo,Yerba,1235.35,1,Tarjeta Crédito,1077,0,0,1217.68
+2025-04-30,Ramos Mejía,Aceite,851.1,-1,Tarjeta Crédito,1004,15,0,-720.58
+2025-05-25,Lomas del Mirador,Arroz,351.07,4,Tarjeta Débito,1040,0,0,1423.45
+2025-05-17,Ramos Mejía,Pan,1355.73,2,Tarjeta Débito,1063,0,0,2712.62
+2025-04-10,Ramos Mejía,Leche,338.7,5,Mercado Pago,1066,15,0,1422.98
+2025-05-15,Ramos Mejía,Arroz,1407.35,2,Tarjeta Crédito,1049,15,0,2401.46
+2025-06-27,La Tablada,Leche,580.02,4,Efectivo,1082,5,0,2208.27
+2025-04-27,San Justo,Galletitas,680.49,4,Tarjeta Crédito,1092,15,0,2325.19
+2025-04-17,Lomas del Mirador,Fideos,982.28,7,Tarjeta Débito,1067,0,0,6884.23
+2025-05-18,Lomas del Mirador,Queso,1287.51,6,Mercado Pago,1011,0,0,7722.14
+2025-04-12,Lomas del Mirador,Galletitas,951.53,3,Mercado Pago,1051,15,0,2440.31
+2025-06-23,Morón,Leche,834.88,0,Mercado Pago,1046,15,0,-9.61
+2025-04-07,Lomas del Mirador,Arroz,838.11,6,Efectivo,1029,5,0,4780.23
+2025-06-08,Lomas del Mirador,Aceite,811.29,0,Efectivo,1008,5,0,4.93
+2025-05-24,San Justo,Leche,909.95,3,Tarjeta Débito,1030,5,0,2610.44
+2025-06-08,Morón,Arroz,791.11,2,Mercado Pago,1032,0,0,1586.79
+2025-06-10,Morón,Jugo,172.46,4,Tarjeta Crédito,1017,15,0,586.22
+2025-06-17,Ramos Mejía,Yerba,597.17,2,Mercado Pago,1076,10,0,1084.07
+2025-04-08,La Tablada,Pan,297.97,1,Tarjeta Crédito,1061,15,0,253.18
+2025-04-26,Morón,Pan,712.33,0,Tarjeta Crédito,1046,15,0,12.32
+2025-04-07,Morón,Cerveza,565.37,2,Efectivo,1009,5,0,1089.55
+2025-04-30,San Justo,Cerveza,1363.34,2,Mercado Pago,1077,10,0,2443.32
+2025-05-27,Lomas del Mirador,Galletitas,1327.33,6,Tarjeta Débito,1042,15,0,6761.0
+2025-04-24,Morón,Yerba,999.5,3,Mercado Pago,1042,10,0,2686.39
+2025-05-07,Morón,Queso,955.83,6,Mercado Pago,1100,10,0,5146.21
+2025-06-13,La Tablada,Pan,508.47,2,Tarjeta Débito,1002,15,0,862.99
+2025-06-02,San Justo,Cerveza,1035.05,5,Tarjeta Débito,1014,5,0,4928.36
+2025-06-08,La Tablada,Yerba,1462.28,2,Mercado Pago,1081,5,1,2787.83
+2025-05-19,Morón,Fideos,930.94,2,Tarjeta Débito,1058,15,0,1570.89
+2025-07-07,Morón,Queso,457.18,2,Tarjeta Crédito,1071,10,0,827.54
+2025-05-17,San Justo,Leche,219.33,1,Efectivo,1047,10,0,193.98
+2025-04-09,Ramos Mejía,Yerba,798.61,2,Tarjeta Débito,1060,5,0,1499.18
+2025-06-20,Ramos Mejía,Aceite,857.71,1,Tarjeta Crédito,1077,5,0,808.81
+2025-04-11,Morón,Cerveza,1123.6,2,Efectivo,1009,5,0,2147.08
+2025-06-30,Morón,Leche,1195.72,5,Tarjeta Débito,1020,10,0,5369.23
+2025-04-22,La Tablada,Leche,663.26,5,Efectivo,1052,10,0,2990.29
+2025-05-07,La Tablada,Cerveza,1259.24,2,Mercado Pago,1031,5,0,2400.16
+2025-04-21,La Tablada,Jugo,476.97,2,Tarjeta Débito,1086,5,0,896.42
+2025-06-23,Lomas del Mirador,Jugo,922.97,2,Tarjeta Crédito,1027,10,0,1644.06
+2025-06-25,Morón,Pan,1095.7,0,Tarjeta Crédito,1023,0,0,-7.99
+2025-06-16,Lomas del Mirador,Cerveza,407.56,1,Efectivo,1095,10,0,368.8
+2025-06-10,Ramos Mejía,Cerveza,745.4,5,Tarjeta Crédito,1011,15,0,3178.63
+2025-06-08,Morón,Pan,715.35,8,Tarjeta Crédito,1054,15,0,4848.93
+2025-07-05,Morón,Pan,707.5,4,Tarjeta Débito,1070,10,0,2540.33
+2025-07-05,San Justo,Galletitas,425.25,3,Efectivo,1007,15,0,1080.23
+2025-06-13,Morón,Queso,827.46,4,Tarjeta Crédito,1089,0,0,3312.6
+2025-05-20,Ramos Mejía,Arroz,975.5,2,Mercado Pago,1028,0,0,1969.4
+2025-04-19,Morón,Pan,786.67,4,Tarjeta Débito,1049,0,0,3159.96
+2025-06-22,Lomas del Mirador,Arroz,1295.31,4,Tarjeta Crédito,1081,15,0,4391.81
+2025-05-03,Morón,Aceite,1131.99,3,Tarjeta Crédito,1015,5,0,3239.52
+2025-05-06,Lomas del Mirador,Queso,1102.8,0,Tarjeta Crédito,1096,0,0,16.89
+2025-05-16,La Tablada,Queso,850.22,3,Tarjeta Débito,1095,0,0,2549.82
+2025-04-29,La Tablada,Yerba,907.2,-1,Tarjeta Débito,1017,5,0,-862.86
+2025-04-17,San Justo,Galletitas,1497.47,1,Efectivo,1008,10,0,1329.15
+2025-04-28,Morón,Jugo,795.8,4,Tarjeta Débito,1039,5,0,3009.47
+2025-04-12,La Tablada,Queso,658.71,5,Tarjeta Crédito,1021,10,0,2950.41
+2025-06-30,La Tablada,Yerba,1441.53,4,Tarjeta Crédito,1008,10,0,5187.93
+2025-06-23,San Justo,Aceite,770.55,2,Mercado Pago,1044,5,0,1478.65
+2025-05-15,San Justo,Cerveza,869.72,4,Tarjeta Débito,1056,0,0,3494.72
+2025-05-28,Morón,Yerba,887.47,3,Tarjeta Crédito,1028,10,0,2394.67
+2025-05-18,Lomas del Mirador,Queso,1062.42,5,Mercado Pago,1054,5,0,5059.06
+2025-04-07,Morón,Jugo,1321.33,3,Efectivo,1060,0,0,3981.1
+2025-07-02,Lomas del Mirador,Pan,1069.01,7,Efectivo,1069,10,0,6717.0
+2025-06-22,San Justo,Pan,1234.93,2,Efectivo,1044,15,0,2100.22
+2025-04-16,Ramos Mejía,Yerba,506.89,0,Tarjeta Crédito,1082,0,0,2.6
+2025-06-06,Morón,Fideos,803.64,5,Tarjeta Crédito,1036,5,0,3824.42
+2025-05-27,Ramos Mejía,Jugo,1442.41,4,Efectivo,1010,15,0,4906.4
+2025-05-22,Lomas del Mirador,Cerveza,526.66,3,Mercado Pago,1068,5,0,1481.73
+2025-06-26,Morón,Fideos,552.97,6,Efectivo,1042,10,0,2989.13
+2025-05-30,Ramos Mejía,Jugo,1421.01,5,Tarjeta Débito,1096,0,0,7098.32
+2025-06-12,Ramos Mejía,Galletitas,1476.05,5,Tarjeta Crédito,1069,15,0,6289.86
+2025-05-29,Morón,Cerveza,1191.09,7,Tarjeta Crédito,1079,15,0,7098.82
+2025-07-01,Ramos Mejía,Jugo,1101.62,3,Tarjeta Débito,1078,15,0,2791.78
+2025-05-02,Morón,Jugo,1081.82,3,Tarjeta Crédito,1012,10,0,2906.89
+2025-04-13,Ramos Mejía,Pan,810.15,5,Tarjeta Débito,1062,0,0,4064.38
+2025-06-11,San Justo,Galletitas,797.73,3,Efectivo,1032,0,0,2386.76
+2025-05-08,Morón,Jugo,906.66,2,Efectivo,1041,10,0,1627.0
+2025-05-26,San Justo,Galletitas,1411.56,3,Tarjeta Crédito,1032,5,0,4024.32
+2025-05-05,La Tablada,Aceite,1124.25,3,Tarjeta Crédito,1041,15,0,2853.48
+2025-05-02,San Justo,Galletitas,538.52,3,Efectivo,1058,5,0,1539.01
+2025-04-08,Ramos Mejía,Arroz,924.19,5,Tarjeta Débito,1055,10,0,4146.35
+2025-05-27,Lomas del Mirador,Cerveza,883.31,2,Efectivo,1054,5,0,1662.96
+2025-04-10,San Justo,Pan,1359.28,2,Tarjeta Débito,1091,5,0,2593.93
+2025-05-28,San Justo,Pan,682.62,1,Mercado Pago,1051,10,0,606.69
+2025-07-07,San Justo,Pan,615.93,5,Efectivo,1055,15,0,2632.02
+2025-05-24,Lomas del Mirador,Pan,1193.64,1,Tarjeta Débito,1086,5,0,1142.35
+2025-04-25,Lomas del Mirador,Jugo,347.74,4,Tarjeta Débito,1073,0,0,1381.82
+2025-06-19,San Justo,Pan,206.79,2,Tarjeta Débito,1019,5,0,376.37
+2025-04-10,La Tablada,Galletitas,1439.67,1,Tarjeta Crédito,1091,5,0,1382.77
+2025-06-09,Lomas del Mirador,Arroz,256.69,6,Tarjeta Crédito,1087,0,0,1535.0
+2025-06-04,Lomas del Mirador,Yerba,1397.41,5,Mercado Pago,1077,15,0,5952.17
+2025-05-07,Lomas del Mirador,Leche,1035.56,4,Mercado Pago,1039,0,0,4134.35
+2025-05-22,Morón,Queso,1158.91,4,Tarjeta Débito,1019,15,0,3941.3
+2025-05-16,San Justo,Yerba,438.88,6,Tarjeta Crédito,1078,10,0,2356.95
+2025-06-29,La Tablada,Yerba,1267.73,2,Tarjeta Débito,1094,10,0,2276.88
+2025-06-17,Lomas del Mirador,Galletitas,516.03,1,Tarjeta Crédito,1007,5,0,471.72
+2025-06-21,Morón,Pan,908.72,1,Tarjeta Crédito,1038,5,0,851.37
+2025-04-08,Ramos Mejía,Jugo,516.69,3,Mercado Pago,1051,10,0,1378.77
+2025-06-20,Ramos Mejía,Galletitas,297.46,2,Tarjeta Débito,1080,0,0,595.16
+2025-05-22,Lomas del Mirador,Jugo,1150.2,1,Tarjeta Débito,1065,10,0,1047.14
+2025-06-03,La Tablada,Leche,473.03,0,Tarjeta Crédito,1010,15,0,16.2
+2025-06-26,La Tablada,Aceite,218.53,3,Tarjeta Crédito,1097,5,0,608.97
+2025-05-22,San Justo,Queso,1372.0,4,Efectivo,1084,0,0,5481.6
+2025-05-27,Lomas del Mirador,Aceite,454.66,7,Mercado Pago,1048,5,0,3022.83
+2025-06-11,Ramos Mejía,Galletitas,464.33,5,Efectivo,1001,10,0,2104.44
+2025-04-11,San Justo,Pan,285.27,7,Tarjeta Crédito,1073,0,0,1989.3
+2025-06-18,La Tablada,Queso,595.9,2,Tarjeta Débito,1005,10,0,1065.71
+2025-05-13,San Justo,Yerba,787.75,3,Tarjeta Crédito,1010,15,1,2019.54
+2025-07-01,Ramos Mejía,Fideos,1069.61,3,Efectivo,1061,10,0,2871.88
+2025-04-07,La Tablada,Arroz,335.58,1,Mercado Pago,1083,0,1,354.87
+2025-05-19,Morón,Cerveza,1452.1,0,Tarjeta Crédito,1095,10,0,0.65
+2025-06-24,Morón,Fideos,1470.18,5,Tarjeta Débito,1067,5,0,7003.06
+2025-05-21,Lomas del Mirador,Pan,363.22,3,Efectivo,1023,5,0,1023.38
+2025-04-09,San Justo,Galletitas,1031.41,1,Tarjeta Crédito,1065,0,0,1012.87
+2025-06-26,La Tablada,Yerba,1338.87,5,Tarjeta Débito,1073,5,0,6355.14
+2025-04-09,Lomas del Mirador,Galletitas,792.19,4,Tarjeta Débito,1018,15,0,2708.04
+2025-06-08,San Justo,Pan,1028.23,2,Tarjeta Crédito,1039,15,0,1732.62
+2025-04-25,Ramos Mejía,Aceite,1170.48,3,Efectivo,1053,0,0,3503.88
+2025-04-19,La Tablada,Queso,537.78,2,Tarjeta Débito,1005,10,0,949.77
+2025-04-24,San Justo,Fideos,535.31,2,Mercado Pago,1057,5,0,1031.01
+2025-06-30,La Tablada,Jugo,229.87,1,Efectivo,1066,5,0,233.25
+2025-06-25,San Justo,Yerba,1187.78,3,Tarjeta Débito,1040,10,0,3200.34
+2025-06-07,Ramos Mejía,Queso,1030.6,3,Tarjeta Crédito,1050,10,0,2798.19
+2025-05-23,La Tablada,Queso,463.5,3,Tarjeta Crédito,1047,10,0,1235.57
+2025-04-18,Morón,Yerba,1147.23,0,Efectivo,1055,10,0,10.65
+2025-04-17,Ramos Mejía,Leche,1297.95,2,Tarjeta Débito,1034,5,0,2475.93
+2025-06-14,San Justo,Queso,200.35,-1,Tarjeta Débito,1064,15,0,-189.4
+2025-05-15,La Tablada,Aceite,1393.99,3,Efectivo,1062,0,0,4192.31
+2025-05-13,Ramos Mejía,Leche,714.14,0,Efectivo,1079,0,0,5.55
+2025-05-14,San Justo,Arroz,1280.77,5,Efectivo,1095,10,0,5751.86
+2025-06-13,Morón,Aceite,1410.8,4,Mercado Pago,1054,15,0,4784.74
+2025-05-10,Morón,Aceite,199.06,1,Mercado Pago,1023,5,0,180.57
+2025-04-10,San Justo,Galletitas,1278.87,4,Mercado Pago,1089,5,0,4861.0
+2025-05-07,Morón,Galletitas,1213.75,4,Tarjeta Crédito,1070,0,0,4865.91
+2025-05-21,Ramos Mejía,Leche,401.52,2,Mercado Pago,1045,10,1,729.58
+2025-07-06,Morón,Arroz,1161.15,2,Mercado Pago,1051,15,0,1964.86
+2025-04-24,Lomas del Mirador,Arroz,1327.59,4,Mercado Pago,1003,0,0,5296.66
+2025-04-14,Morón,Queso,540.78,2,Tarjeta Débito,1062,15,1,903.9
